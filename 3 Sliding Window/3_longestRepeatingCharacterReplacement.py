@@ -1,4 +1,4 @@
-# Leetcode Link- # https://leetcode.com/problems/longest-repeating-character-replacement/
+# Leetcode Link- https://leetcode.com/problems/longest-repeating-character-replacement/
 
 # Longest Repeating Character Replacement
 
